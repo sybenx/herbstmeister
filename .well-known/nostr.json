@@ -4,12 +4,9 @@
   },
   "relays": {
     "f5073ea24832d8e6246d22ec0b5a75bbf4a12558e3ac67cb07360b3474e5a40e": [
-      "ws://umbrel:4848",
       "wss://relay.vantis.ninja",
       "wss://nos.lol",
       "wss://nostr.mom",
-      "wss://relayable.org",
-      "wss://relay.stoner.com",
       "wss://nostr.wine"
     ]
   }
