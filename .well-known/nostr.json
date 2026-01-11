@@ -6,10 +6,10 @@
     "f5073ea24832d8e6246d22ec0b5a75bbf4a12558e3ac67cb07360b3474e5a40e": [
       "wss://nos.lol",
       "wss://nostr.wine",
-      "wss://offchain.pub",
       "wss://relay.damus.io",
+      "wss://pyramid.aaro.cc",
+      "wss://relay.primal.net",
       "wss://relay.nostr.band",
-      "wss://nostr.bitcoiner.social",
       "wss://relay.vantis.ninja"
     ]
   }
