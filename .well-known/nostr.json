@@ -4,12 +4,8 @@
   },
   "relays": {
     "f5073ea24832d8e6246d22ec0b5a75bbf4a12558e3ac67cb07360b3474e5a40e": [
-      "wss://nos.lol",
-      "wss://nostr.wine",
-      "wss://relay.damus.io",
+      "wss://syb.lol",
       "wss://pyramid.aaro.cc",
-      "wss://relay.primal.net",
-      "wss://relay.nostr.band",
       "wss://relay.vantis.ninja"
     ]
   }
